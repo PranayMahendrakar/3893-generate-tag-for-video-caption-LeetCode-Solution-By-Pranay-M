@@ -5,3 +5,4 @@
 - [2026-03-06T13:48:37Z] docs: improve inline documentation
 - [2026-03-06T14:33:21Z] perf: optimize loop for better performance
 - [2026-03-06T19:57:39Z] perf: optimize loop for better performance
+- [2026-03-07T18:53:29Z] refactor: simplify conditional logic
